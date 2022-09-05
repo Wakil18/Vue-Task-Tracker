@@ -46,19 +46,19 @@ export default {
     this.tasks = [
     {
     "id": 1,
-    "text": "delectus aut autem",
+    "text": "Doctors Appoinment",
     "day": "March 1st at 2:30pm",
     "reminder": true,
   },
   {
     "id": 2,
-    "text": "quis ut nam facilis et officia qui",
+    "text": "Meeting with John",
     "day": "March 3rd at 1:30pm",
     "reminder": true,
   },
   {
     "id": 3,
-    "text": "fugiat veniam minus",
+    "text": "Jake's Reception Event",
     "day": "March 5th at 5:30pm",
     "reminder": false,
   },
