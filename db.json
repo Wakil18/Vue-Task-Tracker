@@ -23,6 +23,12 @@
       "day": "Wednesday at 3:00 pm",
       "reminder": true,
       "id": "lnDK--K"
+    },
+    {
+      "text": "Meeting with pops",
+      "day": "6th September 2022",
+      "reminder": true,
+      "id": "FUoqEt4"
     }
   ]
 }
