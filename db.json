@@ -27,7 +27,7 @@
     {
       "text": "Meeting with pops",
       "day": "6th September 2022",
-      "reminder": true,
+      "reminder": false,
       "id": "FUoqEt4"
     }
   ]
